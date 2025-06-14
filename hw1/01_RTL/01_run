@@ -1,0 +1,5 @@
+vcs -full64 -R +v2k -sverilog -f rtl_01.f -debug_access+all +define+p0 +lint=TFIPC-L | tee rtl_p0.log 
+vcs -full64 -R +v2k -sverilog -f rtl_01.f -debug_access+all +define+p1 +lint=TFIPC-L | tee rtl_p1.log 
+vcs -full64 -R +v2k -sverilog -f rtl_01.f -debug_access+all +define+p2 +lint=TFIPC-L | tee rtl_p2.log 
+vcs -full64 -R +v2k -sverilog -f rtl_01.f -debug_access+all +define+p3 +lint=TFIPC-L | tee rtl_p3.log 
+vcs -full64 -R +v2k -sverilog -f rtl_01.f -debug_access+all +define+p4 +lint=TFIPC-L | tee rtl_p4.log 

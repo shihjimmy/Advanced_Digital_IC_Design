@@ -1,0 +1,8 @@
+vcs -f rtl_02.f -full64 -R +v2k -sverilog -v2005 -debug_access+all +maxdelays -negdelay +neg_tchk +define+p0+SDF -P /share1/cad/synopsys/verdi/cur/share/PLI/VCS/LINUX64/novas.tab /share1/cad/synopsys/verdi/cur/share/PLI/VCS/LINUX64/pli.a | tee run.log
+vcs -f rtl_02.f -full64 -R +v2k -sverilog -v2005 -debug_access+all +maxdelays -negdelay +neg_tchk +define+p1+SDF -P /share1/cad/synopsys/verdi/cur/share/PLI/VCS/LINUX64/novas.tab /share1/cad/synopsys/verdi/cur/share/PLI/VCS/LINUX64/pli.a | tee run.log
+vcs -f rtl_02.f -full64 -R +v2k -sverilog -v2005 -debug_access+all +maxdelays -negdelay +neg_tchk +define+p2+SDF -P /share1/cad/synopsys/verdi/cur/share/PLI/VCS/LINUX64/novas.tab /share1/cad/synopsys/verdi/cur/share/PLI/VCS/LINUX64/pli.a | tee run.log
+vcs -f rtl_02.f -full64 -R +v2k -sverilog -v2005 -debug_access+all +maxdelays -negdelay +neg_tchk +define+p3+SDF -P /share1/cad/synopsys/verdi/cur/share/PLI/VCS/LINUX64/novas.tab /share1/cad/synopsys/verdi/cur/share/PLI/VCS/LINUX64/pli.a | tee run.log
+vcs -f rtl_02.f -full64 -R +v2k -sverilog -v2005 -debug_access+all +maxdelays -negdelay +neg_tchk +define+p4+SDF -P /share1/cad/synopsys/verdi/cur/share/PLI/VCS/LINUX64/novas.tab /share1/cad/synopsys/verdi/cur/share/PLI/VCS/LINUX64/pli.a | tee run.log
+
+
+

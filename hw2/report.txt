@@ -1,0 +1,3 @@
+StudentID: r13943124
+Area: 302.849287 (um^2)
+Total Runtime: 1192180.00 ns

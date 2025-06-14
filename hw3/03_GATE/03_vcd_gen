@@ -1,0 +1,3 @@
+fsdb2vcd keccak_00.fsdb -o keccak_00.vcd
+fsdb2vcd keccak_01.fsdb -o keccak_01.vcd
+fsdb2vcd keccak_11.fsdb -o keccak_11.vcd

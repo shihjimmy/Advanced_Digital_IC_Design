@@ -1,0 +1,5 @@
+fsdb2saif ../02_GATE/top_p0.fsdb -o top_p0.saif
+fsdb2saif ../02_GATE/top_p1.fsdb -o top_p1.saif
+fsdb2saif ../02_GATE/top_p2.fsdb -o top_p2.saif
+fsdb2saif ../02_GATE/top_p3.fsdb -o top_p3.saif
+fsdb2saif ../02_GATE/top_p4.fsdb -o top_p4.saif

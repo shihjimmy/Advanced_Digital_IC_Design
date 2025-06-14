@@ -1,0 +1,14 @@
+Student ID: r13943124
+Num. of xor2 inst.: 600
+Clock period of i_clk : 1.0 ns
+Clock period of i_clk2: 5.0 ns
+Area: 5984.617012 um^2
+------------------------------
+m00 time: 1550 ns
+m00 power: 10.4 mW
+-------------------------------
+m01 time: 2932 ns
+m01 power: 10.1 mW
+-------------------------------
+m11 time: 17 ns
+m11 power: 0.7175 mW
