@@ -2,7 +2,7 @@
 
 This repository contains implementations and documentation for four advanced computer-aided VLSI system design homeworks from NTU's Graduate Institute of Electronics Engineering (Spring 2025).   
 Each task explores a different concept in ASIC design, simulation, and backend flow.  
-This repository uses FINFET 16nm process, and due to the confidentiality, I cannot upload the files after synthesised, so there are only TB, RTL code, some scripts, UPF files are uploaded.  
+This repository uses FINFET 16nm process, and due to the confidentiality, I cannot upload the files after synthesized, so there are only TB, RTL code, some scripts, UPF files are uploaded.  
 
 ## Topics
 - UPF(united Power Format) and low power design techniques
